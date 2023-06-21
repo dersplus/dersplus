@@ -1,8 +1,8 @@
 # Dersplus
 
-![Dersplus Logo](https://dersplus.net/wp-content/uploads/2023/04/Adsiz-tasarim-3.svg)
+![Dersplus Logo](link-to-dersplus-logo)
 
-Dersplus, ihtiyacınız olan her şeyi tek bir uygulamada toplayan bir eğitim platformudur&#8203;``oaicite:{"number":1,"metadata":{"title":"Dersplus – Şimdi indir","url":"https://dersplus.net","text":"rslerine bir artı daha kat\n\n## İhtiyacın olan her şey, tek uygulama\n","pub_date":null}}``&#8203;. Yapay zekâ tabanlı bir sistem olan Dersplus, tüm sorularınıza yanıt verir ve aradığınız her materyali bulmanızı sağlar&#8203;``oaicite:{"number":1,"metadata":{"title":"Dersplus – Şimdi indir","url":"https://dersplus.net","text":"ay zeka \n\nTüm sorularına yanıt verir","pub_date":null}}``&#8203;.
+Dersplus, ihtiyacınız olan her şeyi tek bir uygulamada toplayan bir eğitim platformudur&#8203;``oaicite:{"number":1,"metadata":{"title":"Dersplus – Şimdi indir","url":"https://dersplus.net","text":"rslerine bir artı daha kat\n\n## İhtiyacın olan her şey, tek uygulama\n","pub_date":null}}``&#8203;. Yapay zeka tabanlı bir sistem olan Dersplus, tüm sorularınıza yanıt verir ve aradığınız her materyali bulmanızı sağlar&#8203;``oaicite:{"number":1,"metadata":{"title":"Dersplus – Şimdi indir","url":"https://dersplus.net","text":"ay zeka \n\nTüm sorularına yanıt verir","pub_date":null}}``&#8203;.
 
 ## Özellikler
 
@@ -10,7 +10,7 @@ Dersplus, ihtiyacınız olan her şeyi tek bir uygulamada toplayan bir eğitim p
 
 - **Kitap Kardeşliği**: Ücretsiz kitap sahibi olabilir veya kitap hediye edebilirsiniz&#8203;``oaicite:{"number":1,"metadata":{"title":"Dersplus – Şimdi indir","url":"https://dersplus.net","text":"Kitap kardeşliği\n\nÜcretsiz kitap sahibi ol veya kitap hediye e","pub_date":null}}``&#8203;.
 
-- **Çalışma Arkadaşım**: Kendinize ders çalışmak için bir yol arkadaşı edinebilirsiniz&#8203;``oaicite:{"number":1,"metadata":{"title":"Dersplus – Şimdi indir","url":"https://dersplus.net","text":"alışma arkadaşım\n\nKendine ders çalışmak için bir yol arkadaşı edi","pub_date":null}}``&#8203;.
+- **Çalışma Arkadaşı**: Kendinize ders çalışmak için bir yol arkadaşı edinebilirsiniz&#8203;``oaicite:{"number":1,"metadata":{"title":"Dersplus – Şimdi indir","url":"https://dersplus.net","text":"alışma arkadaşım\n\nKendine ders çalışmak için bir yol arkadaşı edi","pub_date":null}}``&#8203;.
 
 - **GPT-4 Gücü**: Dünyanın en gelişmiş yapay zeka algoritmasını kullanıyoruz&#8203;``oaicite:{"number":1,"metadata":{"title":"Dersplus – Şimdi indir","url":"https://dersplus.net","text":"-4 gücü \n\nDünyanın en gelişmiş yapay zeka algoritmasını kulllanıyoruz","pub_date":null}}``&#8203;.
 
@@ -20,9 +20,15 @@ Dersplus, ihtiyacınız olan her şeyi tek bir uygulamada toplayan bir eğitim p
 
 1. [ogm-materyal-konu-ozetleri-api](https://github.com/dersplus/ogm-materyal-konu-ozetleri-api): A PHP-based public repository&#8203;``oaicite:{"number":2,"metadata":{"title":"dersplus (Dersplus) · GitHub","url":"https://github.com/dersplus","text":"1.  ogm-materyal-konu-ozetleri-api  Public\n\nPHP","pub_date":null}}``&#8203;.
 
+2. [dersplus](https://github.com/dersplus/dersplus): The main repository for the Dersplus project.
+
+## Beta Sürümü
+
+Dersplus henüz beta aşamasındadır. Hazır olduğumuzda ortalığı sallayacağız. Yine de betayı denemek isterseniz Google Play’den indirebilirsiniz&#8203;``oaicite:{"number":1,"metadata":{"title":"Dersplus – Şimdi indir","url":"https://dersplus.net","text":"Beta yayında\n\nHenüz tam hazır değiliz. Hazır olduğumuzda ortalığı sallayacağız. Yinede betayı denemek istersen Google Play’den indirebilirsi","pub_date":null}}``&#8203;.
+
 ## Misyonumuz
 
-Yeni teknolojileri eğitim öğretim faaliyetlerini kolaylaştırmak için kullanıyoruz. Ayrıca eğitim ve sosyal hayatı birbirinden ayrılmaz bir ikili olarak görüyoruz&#8203;``oaicite:{"number":1,"metadata":{"title":"Dersplus – Şimdi indir","url":"https://dersplus.net","text":"Yeni teknlojileri eğitim öğretim faaliyetlerini kolaylaştırmak için kullanıyoruz. Ayrıca eğitim ve sosyal hayatı birbirinden ayrılmaz bir ikili olarak görüyoru","pub_date":null}}``&#8203;.
+Yeni teknolojileri eğitim ve öğretim faaliyetlerini kolaylaştırmak için kullanıyoruz. Ayrıca eğitim ve sosyal hayatı birbirinden ayrılmaz bir ikili olarak görüyoruz&#8203;``oaicite:{"number":1,"metadata":{"title":"Dersplus – Şimdi indir","url":"https://dersplus.net","text":"Yeni teknlojileri eğitim öğretim faaliyetlerini kolaylaştırmak için kullanıyoruz. Ayrıca eğitim ve sosyal hayatı birbirinden ayrılmaz bir ikili olarak görüyoru","pub_date":null}}``&#8203;.
 
 ## Öğrenciler için çalışıyoruz
 
