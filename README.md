@@ -1,5 +1,3 @@
-# Dersplus
-
 ![Dersplus Logo](https://dersplus.net/wp-content/uploads/2023/04/Adsiz-tasarim-3.svg)
 
 Dersplus, ihtiyacınız olan her şeyi tek bir uygulamada toplayan bir eğitim platformudur. Yapay zeka tabanlı bir sistem olan Dersplus, tüm sorularınıza yanıt verir ve aradığınız her materyali bulmanızı sağlar.
