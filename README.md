@@ -16,10 +16,6 @@ Dersplus, ihtiyacınız olan her şeyi tek bir uygulamada toplayan bir eğitim p
 
 - **Kişiselleştirilmiş Öğrenim**: Yapay zeka ve dil biliminin en yararlı özelliklerinin bir araya getirildiği derslerimiz, en doğru düzey ve hızda öğrenmenize yardımcı olacak şekilde özelleştiriliyor.
 
-## Repositories
-
-1. [ogm-materyal-konu-ozetleri-api](https://github.com/dersplus/ogm-materyal-konu-ozetleri-api): A PHP-based public repository.
-
 ## Misyonumuz
 
 Yeni teknolojileri eğitim ve öğretim faaliyetlerini kolaylaştırmak için kullanıyoruz. Ayrıca eğitim ve sosyal hayatı birbirinden ayrılmaz bir ikili olarak görüyoruz.
